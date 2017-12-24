@@ -1,0 +1,10 @@
+wolframaplpha
+wikipedia
+wxpython
+winshell
+requests
+ssl
+speech_recognition
+BeautifulSoup
+pypiwin32
+urllib
