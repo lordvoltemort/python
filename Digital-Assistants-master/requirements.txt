@@ -1,10 +1,10 @@
-wolframaplpha
+ wolframaplpha
 wikipedia
 wxpython
 winshell
 requests
-ssl
+ ssl
 speech_recognition
 BeautifulSoup
-pypiwin32
-urllib
+ pypiwin32
+ urllib
